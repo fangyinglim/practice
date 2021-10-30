@@ -87,7 +87,7 @@
 
 
 
-
+<!-- leave space to distinguish front end and backend  -->
 
 
 <?php include('template/header.php')?>
